@@ -1,6 +1,7 @@
 # Space Game
 
 ![preview](space-game.gif)
+
 Welcome to Space Game, a simple shoot 'em up game where you pilot a plane to fight off randomly appearing enemies! This game was developed in under 10 hours with a focus on quick development and fun gameplay.
 
 ## Features
